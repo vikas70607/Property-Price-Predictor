@@ -5,7 +5,7 @@ A machine learning model which uses Linear Regression to Predict property prices
 ## Table of Content
   * [Overview](#overview)
   * [Data](#data)
-  * [Libraries used](#frameworks-used)
+  * [Libraries used](#libraries-used)
 
 ## Overview
 A machine learning model which uses Linear Regression to Predict property prices in Delhi using their Areas.
